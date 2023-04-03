@@ -1,0 +1,1 @@
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RPUkiv8P2rZiqX7tq1WK11oEGQNPHU5wPE.TTRig01 -t 7
