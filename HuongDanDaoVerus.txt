@@ -23,10 +23,29 @@ Tool đào: ccminer
   ./build.sh
 
 4, Chạy dòng lệnh tool đào add ví verus, số cpu đào:
-./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RPUkiv8P2rZiqX7tq1WK11oEGQNPHU5wPE.Thanh_Rig01 -t 7 
 
-5, Ghi chú:  
- - u (địa chỉ ví) , .name (tên worker), -t (số cpu đào) 
- 
-6, cài đặt wakey để màn hình luôn sáng khi đào coin. 
-Xin cám ơn các bạn. 
+	./ccminer -a verus -o pool -u diachivi.name -t cpu
+
+Ghi chú:  
+	- u (địa chỉ ví) , .name (tên worker), -t (số cpu đào) 
+	
+4.1 Su Dung vi verus mobile tren dien thoai android
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M01oSamS9pX -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M02oSamS9pH -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M03oSamS9pH -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M04oSamS9pX -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M05oSamS9X -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M06oSamS10pT -t 6 
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M07oSamN8 -t 6
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M08oSamS8pT -t 6
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M09oSamA72017 -t 6
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M10oSamS9pH -t 6
+	./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M11oSamM30s -t 6
+
+	
+	
+4.2 Su Dung Vi San TradeOgre:
+
+	./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd -t 6
+
+6, cài đặt Screen Alive - keep screen on để màn hình luôn sáng khi đào coin. 
