@@ -1,6 +1,3 @@
-obscure finish problem ostrich student august angry drum melody repeat borrow mail curtain enhance click amazing invest hamster dash alcohol palace slot story me
-
-extend busy scene seven ceiling lunch lemon banner bridge cook supply title ritual canvas tray truly solid exhaust loyal kiss soft van catalog
 ccminer 2.3                     "phi2 and cryptonight variants"
 ---------------------------------------------------------------
 
