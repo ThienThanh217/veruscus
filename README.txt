@@ -1,3 +1,4 @@
+./ccminer -a monero -o stratum+tcp://pool.supportxmr.com:3333 -u RGNrR5q8NZoXkowVjEdvX3AtFQN6bTNZhd.M01oSamS9pX85NB2GFJKnse8AzN4NYpcU5rDvVHSHFmCGUysgwTcNgCEgfySe2JyWURZahMeaNscBWemDZj1p2i1MKJpijynuuLRH4ZBGW -t 6
 ccminer 2.3                     "phi2 and cryptonight variants"
 ---------------------------------------------------------------
 
